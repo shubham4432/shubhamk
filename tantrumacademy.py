@@ -5,5 +5,5 @@ print(b,"is greater than",a)
 elif:
 print(a,"is greater than",b)
 else:
-PRINT(a,"is equal to",b)
+print(a,"is equal to",b)
 a=int(input("enter the no."))
